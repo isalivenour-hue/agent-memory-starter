@@ -15,7 +15,7 @@ pieces you need, plug in your own model where it matters.
 ## Install
 
 ```bash
-git clone https://github.com/isalivenour-hue/agent-memory-starter.git
+git clone https://github.com/noah-hayes-dev/agent-memory-starter.git
 cd agent-memory-starter
 python3 examples/demo_agent.py
 ```
